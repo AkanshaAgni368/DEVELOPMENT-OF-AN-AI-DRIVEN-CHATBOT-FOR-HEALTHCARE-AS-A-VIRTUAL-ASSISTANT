@@ -1,0 +1,2 @@
+# DEVELOPMENT-OF-AN-AI-DRIVEN-CHATBOT-FOR-HEALTHCARE-AS-A-VIRTUAL-ASSISTANT
+Architected an NLP-powered virtual assistant using Python, Django, and React.js, reducing simulated patient query response time by 60% compared to manual triage workflows. • Engineered intent classification and named entity recognition (NER) pipelines using spaCy and NLTK, achieving 87% accuracy across 15+ healthcare use cases including system.
